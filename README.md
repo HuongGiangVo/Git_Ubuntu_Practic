@@ -1,1 +1,1 @@
-# Git_Ubuntu_Practic
+# Git_Ubuntu_Practice
